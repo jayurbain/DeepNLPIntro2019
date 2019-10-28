@@ -1,6 +1,6 @@
 # DeepNLPIntro2019
  
-Hands on introduction to Deep learning for NLP. Review NLP fundamentals with Spacy, word representations with Gensim, deep learning architectures and 
+Hands on introduction to natural language processing (NLP) and deep learning for NLP. Review NLP fundamentals with Spacy, word representations with Gensim, deep learning architectures and 
 applications with PyTorch, and introduce current state of the art
 models and methods for transfer learning.
 
